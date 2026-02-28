@@ -10,7 +10,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[Live Demo](https://suyogmauni.com.np) · [Report Bug](https://github.com/SUYOGMAUNI/MindMate/issues) · [Request Feature](https://github.com/SUYOGMAUNI/MindMate/issues)
+[Report Bug](https://github.com/SUYOGMAUNI/MindMate/issues) · [Request Feature](https://github.com/SUYOGMAUNI/MindMate/issues)
 
 </div>
 
